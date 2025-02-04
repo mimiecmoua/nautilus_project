@@ -45,4 +45,6 @@ pip install pandas folium matplotlib seaborn
 📜 Ce projet est protégé. Toute reproduction ou utilisation sans autorisation est interdite.  
 🔗 Si vous souhaitez en savoir plus ou collaborer, contactez-moi via [portfolio](https://mimiecmoua.github.io/portfolio/).
 
+## carte intéractive
+
 ![Animation du Nautilus](images/itineraire-nautilus.gif)
