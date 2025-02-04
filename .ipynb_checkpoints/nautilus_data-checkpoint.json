@@ -1,0 +1,131 @@
+{
+    "Meta": {
+        "Créateur": "Émilie Clain",
+        "Source": "Vingt mille lieues sous les mers",
+        "Dernière mise à jour": "2025-01-13",
+        "Utilisation": "Projet Nautilus - Machine Learning"
+    },
+    "Nautilus": {
+        "Dimensions": {
+            "Longueur": 70,
+            "Diamètre": 8,
+            "Volume": 1500.2,
+            "SurfaceExtérieure": 1011.45,
+            "PoidsTonneaux": 3099.96
+        },
+        "Coques": [
+            {
+                "ID": "coque_principale",
+                "Nom": "Coque principale (extérieure)",
+                "Épaisseur": 0.05,
+                "PoidsTonneaux": 3099.96
+            },
+            {
+                "ID": "coque_secondaire",
+                "Nom": "Coque secondaire (quille)",
+                "Hauteur": 0.5,
+                "Largeur": 0.25,
+                "PoidsTonneaux": 72
+            }
+        ],
+        "Pièces": [
+            {
+                "ID": "salon",
+                "Nom": "Salon",
+                "Dimensions": {
+                    "Longueur": 10,
+                    "Largeur": 6,
+                    "Hauteur": 5
+                },
+                "Équipements": [
+                    "Baie vitrée",
+                    "Bibliothèque (12000 ouvrages)",
+                    "Orgue",
+                    "Tableaux de maîtres",
+                    "Statues antiques"
+                ]
+            },
+            {
+                "ID": "chambre_nemo",
+                "Nom": "Chambre du capitaine Nemo",
+                "Dimensions": {
+                    "Longueur": 5,
+                    "Largeur": 3
+                },
+                "Équipements": [
+                    "Table de travail",
+                    "Meubles de toilette",
+                    "Couchette de fer",
+                    "Baromètre",
+                    "Thermomètre",
+                    "Hygromètre",
+                    "Sextant",
+                    "Chronomètre",
+                    "Lunette de jour et de nuit"
+                ]
+            },
+            {
+                "ID": "cuisine",
+                "Nom": "Cuisine",
+                "Dimensions": {
+                    "Longueur": 3
+                },
+                "Équipements": [
+                    "Ustensiles de cuisine gravés (Mobilis in mobile)"
+                ]
+            },
+            {
+                "ID": "salle_machines",
+                "Nom": "Salle des machines",
+                "Dimensions": {
+                    "Longueur": 20
+                },
+                "Parties": [
+                    "Électricité (piles de sodium)",
+                    "Mécanisme de transmission de l'hélice"
+                ],
+                "Description": "Divisée en deux sections : systèmes électriques alimentés par des piles au sodium, et mécanismes transmettant le mouvement à l'hélice.",
+                "Équipements": [
+                    "Hélice",
+                    "Systèmes électriques",
+                    "Générateurs"
+                ]
+            },
+            {
+                "ID": "chambre_professeur",
+                "Nom": "Chambre du professeur",
+                "Dimensions": {
+                    "Longueur": 2
+                }
+            },
+            {
+                "ID": "cabine_conseil",
+                "Nom": "Cabine de Conseil et de Ned Land",
+                "Dimensions": {
+                    "Longueur": 2
+                }
+            },
+            {
+                "ID": "poste_equipage",
+                "Nom": "Poste de l'équipage",
+                "Dimensions": {
+                    "Longueur": 5
+                }
+            },
+            {
+                "ID": "salle_bain",
+                "Nom": "Salle de bain",
+                "Équipements": [
+                    "Robinet eau chaude et froide"
+                ]
+            }
+        ],
+        "ÉquipementsNavire": [
+            "Canot",
+            "Plateforme extérieure",
+            "Escalier central",
+            "Gouvernail ordinaire"
+        ]
+    }
+}
+
