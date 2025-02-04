@@ -47,4 +47,4 @@ pip install pandas folium matplotlib seaborn
 
 ## carte intéractive
 
-![Animation du Nautilus](images/itineraire-nautilus.gif)
+![Animation du Nautilus](itineraire-nautilus.gif)
