@@ -37,6 +37,8 @@ pip install pandas folium matplotlib seaborn
 │── scripts/       # Scripts Python pour la transformation des données
 │── results/       # Images & exports des visualisations
 
+```
+
 ---
 ## ⚖️ Licence et Copyright  
 
